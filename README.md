@@ -1,5 +1,5 @@
 ## Run the game
 
-Install python 3.x
-Install pygame: `pip install pygame`
-run the game: `python main.py`
+1. Install python 3.x
+2. Install pygame: `pip install pygame`
+3. run the game: `python main.py`
